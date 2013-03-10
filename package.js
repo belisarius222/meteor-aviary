@@ -1,5 +1,5 @@
 Package.describe({
-	summary: "mixpanel analytics repackaged for Meteor"
+	summary: "aviary image editor repackaged for Meteor"
 });
 
 Package.on_use(function (api) {
