@@ -1,0 +1,9 @@
+{
+  "name": "aviary",
+  "description": "aviary photo editor repackaged for Meteor",
+  "homepage": "https://github.com/belisarius222/meteor-aviary",
+  "author": "Ted Blackman <ted.blackman@gmail.com>",
+  "version": "0.1",
+  "git": "https://github.com/belisarius222/meteor-aviary.git",
+  "packages": {}
+}
